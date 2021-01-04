@@ -19,7 +19,7 @@ export class AppComponent {
     monkaPickle = this.emoteService.getMonkaPickle(1);
     weirdChamp = this.emoteService.getWeirdChamp(1);
     forsenCD = this.emoteService.getForsenCD(1);
-    pogOh = this.emoteService.getPogO(1);
+    pogOh = this.emoteService.getPogOh(1);
     yepp = this.emoteService.getYEPP(1);
     ez = this.emoteService.getEZ(1);
     pepeLaugh = this.emoteService.getPepeLaugh(1);
